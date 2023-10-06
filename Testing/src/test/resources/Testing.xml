@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<suite name="Testing automation">
-    <test name="TestProject">
-        <classes>
-            <class name="apiAuto.TestRestAssured" />
-        </classes>
-    </test>
-</suite>
