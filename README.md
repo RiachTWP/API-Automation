@@ -31,6 +31,19 @@ akan mengubah nama dari data tersebut
 5. execute putData ![image](https://github.com/RiachTWP/API-Automation/assets/139956318/d92d7ff1-d228-49a6-87b1-04e50adfe1d2)
 
 # Patch Data
+untuk Patch Data masih sama menggunakan ID : 894 , di sini kita juga mengubah nama dari data tersebut
+1. input "int UserId : 894"
+2. input "String newName = "andre" "
+3. Input patch "api/users/894"
+4. excute patchData ![image](https://github.com/RiachTWP/API-Automation/assets/139956318/ad1818ab-0606-4ff1-944d-23053d73353a)
+
+# Delete Data
+untuk delete data disini masih menggunakan data ID : 894
+1. input "int userDelete = 894"
+2. input path di delete menjadi "api/users/894"
+3. excute deletData ![image](https://github.com/RiachTWP/API-Automation/assets/139956318/d3b15cd0-dd5d-4af6-a7df-82c4fc6fec0a)
+
+
 
 
 
